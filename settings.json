@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": Manu-Quox.aternos.me
-    "port": 11897
+    "ip": "Manu-Quox.aternos.me"
+    "port": 11897,
     "version": "1.26.2",
     "try-creative": false
   },
