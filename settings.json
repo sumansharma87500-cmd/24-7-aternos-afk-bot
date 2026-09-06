@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": Manu-Quox.aternos.me
+    "port": 11897
     "version": "1.20.1",
     "try-creative": false
   },
